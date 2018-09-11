@@ -1,9 +1,9 @@
-# 系统方法 [![translate-svg]][translate-list]
+# 系统重现 [![translate-svg]][translate-list]
 
 [translate-svg]: http://llever.com/translate.svg
 [translate-list]: https://github.com/chinanf-boy/chinese-translate-list
 
-「 计算机网络：系统方法 」
+「 计算机网络：系统重现 」
 
 [中文](./readme.zh.md) | [english](https://github.com/SystemsApproach/book)
 
@@ -44,7 +44,7 @@
 
 # 序言
 
-此站点包含源文本*计算机网络: 一种系统方法*现在可用的条件下[创作共享 (CC 4) ](https://creativecommons.org/licenses/by/4.0)许可证. 社区被邀请在相同的条件下做出修正ㄡ改进ㄡ更新和新材料. 
+此站点包含源文本*计算机网络: 一种系统重现*现在可用的条件下[创作共享 (CC 4) ](https://creativecommons.org/licenses/by/4.0)许可证. 社区被邀请在相同的条件下做出修正ㄡ改进ㄡ更新和新材料. 
 
 像许多开源软件项目一样,这个软件已经被限制了一次内容: 第五版*彼得森与Davie*受爱思唯尔的版权保护. 我们希望,开放源码这种材料将使它广泛可用,并作为新内容的吸引者: 更新已经存在的内容,扩展它以涵盖新的主题,并增加额外的教学附带文本. 
 
@@ -52,7 +52,7 @@
 
 如果你利用这项工作,属性应该包括以下信息: 
 
-> *计算机网络: 一种系统方法\
+> *计算机网络: 一种系统重现\
 > 作者: Larry Peterson和Bruce Davie\
 > 版权所有: 爱思唯尔,2012\
 > 来源: [HTTPS://GITHUB/COM/SCORSH方法](https://github.com/SystemsApproach)\
@@ -111,7 +111,7 @@ make lint
 
 ## 加入我们
 
-我们希望你能从中得到价值*计算机网络: 一种系统方法*多年来,我们热切希望你能加入我们的新事业. 
+我们希望你能从中得到价值*计算机网络: 一种系统重现*多年来,我们热切希望你能加入我们的新事业. 
 
 Larry Peterson与Bruce Davie\
 2018年8月
@@ -119,7 +119,7 @@ Larry Peterson与Bruce Davie\
 # 总结
 
 -  [ ] [序言](README.md)
--  [ ] [第1章: 基金会](https://github.com/chinanf-boy/systems-Approach-foundation-zh/blob/master/problem.zh.md)
+-  [ ] [第1章: 基础](https://github.com/chinanf-boy/systems-Approach-foundation-zh/blob/master/problem.zh.md)
     -  [ ] [1.1应用](https://github.com/chinanf-boy/systems-Approach-foundation-zh/blob/master/applications.zh.md)
     -  [ ] [1.2要求](https://github.com/chinanf-boy/systems-Approach-foundation-zh/blob/master/requirements.zh.md)
     -  [ ] [1.3架构](https://github.com/chinanf-boy/systems-Approach-foundation-zh/blob/master/architecture.zh.md)
@@ -127,7 +127,7 @@ Larry Peterson与Bruce Davie\
     -  [ ] [1.5性能](https://github.com/chinanf-boy/systems-Approach-foundation-zh/blob/master/performance.zh.md)
     -  [ ] [1.6总结](https://github.com/chinanf-boy/systems-Approach-foundation-zh/blob/master/summary.zh.md)
 -  [ ] [第2章: 直接连接](https://github.com/chinanf-boy/systems-Approach-direct-zh/blob/master/problem.zh.md)
-    -  [ ] [连接的2.1个视角](https://github.com/chinanf-boy/systems-Approach-direct-zh/blob/master/perspective.zh.md)
+    -  [ ] [2.1连接视角](https://github.com/chinanf-boy/systems-Approach-direct-zh/blob/master/perspective.zh.md)
     -  [ ] [2.2编码](https://github.com/chinanf-boy/systems-Approach-direct-zh/blob/master/encoding.zh.md)
     -  [ ] [2.3框架](https://github.com/chinanf-boy/systems-Approach-direct-zh/blob/master/framing.zh.md)
     -  [ ] [2.4错误检测](https://github.com/chinanf-boy/systems-Approach-direct-zh/blob/master/error.zh.md)
@@ -154,7 +154,7 @@ Larry Peterson与Bruce Davie\
     -  [ ] [5.4实时应用的传输 (RTP) ](https://github.com/chinanf-boy/systems-Approach-e2e-zh/blob/master/rtp.zh.md)
     -  [ ] [5.5总结](https://github.com/chinanf-boy/systems-Approach-e2e-zh/blob/master/summary.zh.md)
 -  [ ] [第6章: 拥塞控制和资源分配](https://github.com/chinanf-boy/systems-Approach-congestion-zh/blob/master/problem.zh.md)
-    -  [ ] [资源配置中的6.1个问题](https://github.com/chinanf-boy/systems-Approach-congestion-zh/blob/master/issues.zh.md)
+    -  [ ] [6.1资源配置中的问题](https://github.com/chinanf-boy/systems-Approach-congestion-zh/blob/master/issues.zh.md)
     -  [ ] [6.2排队学科](https://github.com/chinanf-boy/systems-Approach-congestion-zh/blob/master/queuing.zh.md)
     -  [ ] [6.3 TCP拥塞控制](https://github.com/chinanf-boy/systems-Approach-congestion-zh/blob/master/tcpcc.zh.md)
     -  [ ] [6.4拥塞避免机制](https://github.com/chinanf-boy/systems-Approach-congestion-zh/blob/master/avoidance.zh.md)
