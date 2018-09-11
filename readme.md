@@ -118,7 +118,7 @@ Larry Peterson与Bruce Davie\
 
 # 总结
 
--  [ ] [序言](README.zh.md)
+-  [ ] [序言](README.md)
 -  [ ] [第1章: 基金会](https://github.com/chinanf-boy/systems-Approach-foundation-zh/blob/master/problem.zh.md)
     -  [ ] [1.1应用](https://github.com/chinanf-boy/systems-Approach-foundation-zh/blob/master/applications.zh.md)
     -  [ ] [1.2要求](https://github.com/chinanf-boy/systems-Approach-foundation-zh/blob/master/requirements.zh.md)
